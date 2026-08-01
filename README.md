@@ -6,6 +6,8 @@ SmartEDA is a web-based Exploratory Data Analysis (EDA) application built with P
 
 The project was developed to demonstrate practical knowledge of data analysis, visualization, and Python application development by providing an end-to-end solution for exploring datasets before machine learning or further analysis.
 
+This project is live and here is the link : https://smarteda-kapppskzb9lbenbmxmshhcz.streamlit.app/
+
 ---
 
 ## Features
